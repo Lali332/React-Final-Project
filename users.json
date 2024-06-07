@@ -1,0 +1,35 @@
+[
+  {
+    "firstName": "lali",
+    "lastName": "feldman",
+    "phone": "0527618556",
+    "email": "lali@de.ce",
+    "password": "1234",
+    "id": 1
+  },
+  {
+    "firstName": "lali",
+    "lastName": "feldman",
+    "phone": "0527618556",
+    "email": "sari@de.ce",
+    "password": "2345",
+    "id": 2
+  },
+  {
+    "firstName": "lali",
+    "lastName": "feldman",
+    "phone": "0527618556",
+    "email": "mali@de.ce",
+    "password": "1597",
+    "id": 3
+  },
+  {
+    "firstName": "lali",
+    "lastName": "feldman",
+    "phone": "0527618556",
+    "email": "roni@de.ce",
+    "password": "9634",
+    "id": 4
+  }
+
+]
